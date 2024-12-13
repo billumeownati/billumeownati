@@ -1,3 +1,6 @@
+👋 Hi, I'm Debayan Khan!
+I'm an Event Coordinator and Regional Coordinator for the Kolkata Region, Bandipur House, IITM BS Degree program. With a passion for community building and team collaboration, I actively organize events and initiatives to connect and empower individuals.
+
 💡 About Me:
 
 - 📚 Currently pursuing the IITM BS Degree with a focus on Data Science and Applications.
