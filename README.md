@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Debayan! 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=IITM+Data+Science+Student;Web+Dev+%7C+Linux+Tinkerer;Community+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=IITM+Data+Science+Student;Web+Dev+%7C+Linux+Enthusiast;Community+Builder" alt="Typing SVG" />
   
   <p>
     I'm a Data Science and Applications student at IIT Madras. Most of my time goes into building web apps, tweaking my Linux setup, and bringing people together through community events.
